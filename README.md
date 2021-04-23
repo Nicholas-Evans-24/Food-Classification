@@ -13,3 +13,5 @@ have a max approximate 25% accuracy reading for the images used.
 * Python Code
 * Report with details on the experiment
 * [Dataset](https://www.kaggle.com/kmader/food41)
+
+*Currently experimenting with model*
